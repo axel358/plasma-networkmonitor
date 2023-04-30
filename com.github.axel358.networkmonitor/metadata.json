@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "axel358@yahoo.com",
+                "Name": "Axel358"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "A plasma widget to monitor networ usage",
+        "Icon": "preferences-system-network",
+        "Id": "com.github.axel358.networkmonitor",
+        "Name": "Network Monitor",
+        "Version": "1",
+        "Website": "https://github.com/axel358/plasma-networkmonitor"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "KPackageStructure": "Plasma/Applet"
+}
